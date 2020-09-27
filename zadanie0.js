@@ -1,2 +1,2 @@
-console.log("witaj świecie");
+console.log("MAJBOR");
 //Marcin Majborski
