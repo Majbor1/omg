@@ -1,2 +1,2 @@
-console.log("MAJBOR");
+console.log("siemanko mordki");
 //Marcin Majborski
